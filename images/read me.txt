@@ -1,0 +1,47 @@
+#‚ ‚¶‚Ì‰æ‘œ
+aji- degasho_aji.png
+   - isshy_aji.png
+   - miwa_aji.png
+   - nagachi_aji.png
+   - tokkii_aji.png
+
+””wŒi
+bg - title.png
+	   - izumo1.png
+	   - izumo2.png
+	   - shinjiko1.png
+	   - shinjiko2.png
+	   - aquas1.png
+	   - aquas2.png
+	   - gameover.png
+
+”‚Ç‚¶‚å‚¤‚Ì‰æ‘œ
+dojo - degasho_dojo.png
+     - isshy_dojo.png
+     - miwa_dojo.png
+     - nagachi_dojo.png
+     - tokkii_dojo.png
+
+”‚Ç‚¶‚å‚¤‹d‚¢é\“ª‚Ì‰æ‘œ
+dojoman - degasho_dojoman.png
+	- isshy_dojoman.png
+	- miwa_dojoman.png
+	- nagachi_dojoman.png
+	- tokkii_dojoman.png
+
+#ƒAƒCƒeƒ€‚Ì‰æ‘œ
+items - gold.png
+      - silver.png
+      - copper.png
+      - degasho_shijimi.png
+      - tokkii_ebi.png
+
+#‚µ‚Ü‚Ë‚Á‚±‚Ì‰æ‘œ
+shimanekko - degasho_shimanekko1.png
+	   - degasho_shimanekko2.png
+	   - degasho_shimanekko3.png
+	   - degasho_shimanekko4.png
+	   - isshy_shimanekko.png
+	   - miwa_shimanekko.png
+	   - nagachi_shimanekko.png
+	   - tokkii_shimanekko.png
